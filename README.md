@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/mason45ok?theme=dark&font=Audiowide" height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mason45ok&theme=vue-dark&line_height=22&layout=compact&hide=less" height="200px" />
+  <img src="https://leetcard.jacoblin.cool/mason45ok?theme=dark&font=Audiowide" height="200px" style="display: inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mason45ok&theme=vue-dark&line_height=22&layout=compact&hide=less" height="200px" style="display: inline-block;"/>
 </p>
-
 
