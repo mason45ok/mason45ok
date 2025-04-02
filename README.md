@@ -1,7 +1,8 @@
 ## Hi there 👋
 ### Short intro
 * ⚡ Elementary Software Engineer (Pyhton)
-* 🔭   
+* 🔭 NTNU TAHRD Student
+
 <!--
 **mason45ok/mason45ok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width = ”100%” src="https://github-readme-stats.vercel.app/api/top-langs/?username=mason45ok&theme=vue-dark&line_height=22&layout=compact&hide=less" />
+<img width = ”100%” src="https://github-readme-stats.vercel.app/api/top-langs/?username=mason45ok&theme=vue-dark&line_height=22&layout=compact&hide=less" />  
