@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width = ”100%” src="https://github-readme-stats.vercel.app/api/top-langs/?username=mason45ok&theme=vue-dark&line_height=22&layout=compact&hide=less" />  
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mason45ok?theme=dark&font=Audiowide" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mason45ok&theme=vue-dark&line_height=22&layout=compact&hide=less" height="200px" />
+</p>
+
+
