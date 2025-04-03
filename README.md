@@ -1,5 +1,5 @@
 ### Short intro
-* ⚡ Software Engineer (Pyhton)
+* ⚡ Software Engineer (Python)
 * 🔭 NTNU TAHRD Student
 * ✨ [More about me](https://mason45ok.github.io/MyWeb/)
 ### Research & Experience
