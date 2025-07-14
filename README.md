@@ -9,7 +9,9 @@
   Using AI/LLM for real-world problem 
   * 2023 [EDU Big Data contest](https://sites.google.com/go.edu.tw/ntnu)
   * 2024 [Coding 101](https://www.coding101.tw/%E6%AD%B7%E5%B1%86%E5%BE%97%E7%8D%8E%E5%90%8D%E5%96%AE/2024)
+  * 2024 [InnoVEX](https://pr.ntnu.edu.tw/ntnunews/index.php?mode=data&id=22618)
   * 2024 [GenAI Stars](https://genaistars.org.tw/news/35)
+  * 2024 [第十七屆 智慧化居住空間創意競賽「巢向未來組 優選」](https://design.ils.org.tw/backend/file/historyWorks/17/2/8.jpg)
 
 <!--
 **mason45ok/mason45ok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
