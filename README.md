@@ -1,7 +1,6 @@
 ### Short intro
 * ⚡ Software Engineer (Python)
 * 🔭 NTNU TAHRD Student
-* ✨ [More about me](https://mason45ok.github.io/MyWeb/)
 ### Research & Experience
 * 📢Conference Presentations:  
   **2025 IEEE ICASI** -  AI Agents with IoT for Adaptive Decision-Making
